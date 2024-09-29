@@ -1,0 +1,8 @@
+gymnasium
+opencv-python
+numpy
+matplotlib
+stable-baselines3
+tensorflow
+scikit-learn
+scipy
